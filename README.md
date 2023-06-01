@@ -16,7 +16,7 @@ Das Tagesziel:
 
 Auf geht's!
 
-# 1. Input
+# 1. Pseudo-Input
 
 ## :face_with_spiral_eyes: Was sind Pseudo-Klassen?
 
