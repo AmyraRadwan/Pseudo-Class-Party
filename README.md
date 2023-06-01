@@ -4,19 +4,19 @@ Heute werden wir mit Pseudo-Klasses stylen und ein... yay!
 
 Das Tagesziel:
 
-1. Input
+1. [Input](https://github.com/AmyraRadwan/Pseudo-Class-Party#1input)
 
-   - Was sind Pseudo-Klassen?
-   - Was sind Pseudo-Elemente?
+   - [Was sind Pseudo-Klassen?](https://github.com/AmyraRadwan/Pseudo-Class-Party#face_with_spiral_eyes-was-sind-pseudo-klassen)
+   - [Was sind Pseudo-Elemente?](https://github.com/AmyraRadwan/Pseudo-Class-Party#face_with_spiral_eyes-was-sind-pseudo-klassen)
 
-2. Index
+2. [Pseudo-Index]()
 
-   - Tolle Pseudo-Klassen
-   - Tolle Pseudo-Elemente
+   - [Tolle Pseudo-Klassen]()
+   - [Tolle Pseudo-Elemente]()
 
 Auf geht's!
 
-# 1.Input
+# 1. :nerd_face: Input
 
 ## :face_with_spiral_eyes: Was sind Pseudo-Klassen?
 
@@ -45,3 +45,5 @@ selector::pseudo-element {
   property: value;
 }
 ```
+
+# 2. Pseudo-Index
