@@ -1,4 +1,4 @@
-# :partying_face: Pseudo-Class-Party
+# :partying_face: Pseudo-Party
 
 Heute werden wir mit Pseudo-Klasses stylen und ein... yay!
 
@@ -7,7 +7,7 @@ Das Tagesziel:
 1. [Input](https://github.com/AmyraRadwan/Pseudo-Class-Party#1input)
 
    - [Was sind Pseudo-Klassen?](https://github.com/AmyraRadwan/Pseudo-Class-Party#face_with_spiral_eyes-was-sind-pseudo-klassen)
-   - [Was sind Pseudo-Elemente?](https://github.com/AmyraRadwan/Pseudo-Class-Party#face_with_spiral_eyes-was-sind-pseudo-klassen)
+   - [Was sind Pseudo-Elemente?](https://github.com/AmyraRadwan/Pseudo-Class-Party#face_with_spiral_eyes-was-sind-pseudo-elemente)
 
 2. [Pseudo-Index]()
 
@@ -16,7 +16,7 @@ Das Tagesziel:
 
 Auf geht's!
 
-# 1. :nerd_face: Input
+# 1. Input
 
 ## :face_with_spiral_eyes: Was sind Pseudo-Klassen?
 
@@ -45,5 +45,7 @@ selector::pseudo-element {
   property: value;
 }
 ```
+
+Die ersten Pseudo-Klassen wurden 1996 mit CSS1 herausgebracht. Pseudo soll hier soviel bedeuten wie falsch, unreal, oder fake. Der Prefix Pseudo- wird somit verwendet um Klassen und Elemente zu referenzieren die nicht "real" sind. Nicht real bedeutet in dem Kontext nicht Teil des DOM (Document Object Model) sondern virtuell erzeugte Elemente/Klassen die nur zu styling Zwecken kreiert werden.
 
 # 2. Pseudo-Index
