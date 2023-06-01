@@ -11,8 +11,8 @@ Das Tagesziel:
 
 2. [Pseudo-Index](https://github.com/AmyraRadwan/Pseudo-Class-Party/tree/main#2-pseudo-index)
 
-   - [Tolle Pseudo-Klassen]()
-   - [Tolle Pseudo-Elemente]()
+   - [Tolle Pseudo-Klassen](https://github.com/AmyraRadwan/Pseudo-Class-Party/tree/main#sparkles-tolle-pseudo-klassen)
+   - [Tolle Pseudo-Elemente](https://github.com/AmyraRadwan/Pseudo-Class-Party/tree/main#sparkles-tolle-pseudo-elemente)
 
 Auf geht's!
 
