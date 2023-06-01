@@ -17,8 +17,8 @@ CSS Pseudo-Klassen sind Keywords mit einem Doppelpunkt davor, die sich auf besti
 ### Syntax
 
 ```
-selector:pseudo-class {
-  property: value;
+img:hover {
+  color: black;
 }
 ```
 
