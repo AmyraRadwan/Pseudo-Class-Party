@@ -4,7 +4,7 @@ Heute werden wir mit Pseudo-Klasses stylen und ein... yay!
 
 Das Tagesziel:
 
-1. [Input](https://github.com/AmyraRadwan/Pseudo-Class-Party#1input)
+1. [Pseudo-Input](https://github.com/AmyraRadwan/Pseudo-Class-Party/tree/main#1-input)
 
    - [Was sind Pseudo-Klassen?](https://github.com/AmyraRadwan/Pseudo-Class-Party#face_with_spiral_eyes-was-sind-pseudo-klassen)
    - [Was sind Pseudo-Elemente?](https://github.com/AmyraRadwan/Pseudo-Class-Party#face_with_spiral_eyes-was-sind-pseudo-elemente)
