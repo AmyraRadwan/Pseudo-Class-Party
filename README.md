@@ -53,3 +53,43 @@ Die ersten Pseudo-Klassen wurden 1996 mit CSS1 herausgebracht. Pseudo soll hier 
 ## :sparkles: Tolle Pseudo-Klassen
 
 ## :sparkles: Tolle Pseudo-Elemente
+
+### ::after
+
+Mit `::after` wird ein Pseudoelement erstellt, das als last-child des Selektor-Elements fungiert. Es wird häufig verwendet, um einem Element mit der Eigenschaft `content` kosmetische Inhalte hinzuzufügen. Es ist standardmäßig inline.
+
+**Beispiel:**
+
+```
+
+```
+
+### ::before
+
+Mit `::before` wird ein Pseudo-Element erstellt, das als first-child des Selektor-Elements fungiert. Es wird häufig verwendet, um einem Element mit der Eigenschaft `content` kosmetische Inhalte hinzuzufügen. Es ist standardmäßig ein Inline-Element.
+
+**Beispiel:**
+
+```
+
+```
+
+### ::first-letter
+
+Das `::first-letter` Pseudo-Element wendet Stile auf den ersten Buchstaben der ersten Zeile eines Block-Elements an, jedoch nur, wenn kein anderer Inhalt (wie Bilder oder Inline-Tabellen) vorangestellt ist. Da es sich um ein Inline-Text Pseudo-Element handelt können nur begrenzte Properties darauf angewendet werden.
+
+**Beispiel:**
+
+```
+
+```
+
+### ::first-line
+
+Das `::first-line` Pseudo-Element wendet Stile auf die erste Zeile eines Block-Elements an. Es ist standardmäßig ein Inline-Element. Da es sich um ein Inline-Text Pseudo-Element handelt können nur begrenzte Properties darauf angewendet werden.
+
+**Beispiel:**
+
+```
+
+```
