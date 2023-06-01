@@ -1,1 +1,1 @@
-# Pseudo-Class-Party
+# :partying_face: Pseudo-Class-Party
