@@ -1,1 +1,39 @@
 # :partying_face: Pseudo-Class-Party
+
+Heute werden wir mit Pseudo-Klasses stylen und ein... yay!
+
+Das Tagesziel:
+
+1. Input
+   - Was sind Pseudo-Klassen?
+   - Was sind Pseudo-Elemente?
+
+Auf geht's!
+
+## :face_with_spiral_eyes: Was sind Pseudo-Klassen?
+
+CSS Pseudo-Klassen sind Keywords mit einem Doppelpunkt davor, die sich auf bestimmte Zustände von Elementen beziehen. Bei `:hover` wird z.B. ein Maus abhängiger Zustand angesprochen. Pseudo-Klassen bestehen aus einem Doppelpunkt `:` gefolgt von einem Namen (z.B., `:hover`).
+
+### Syntax
+
+```
+selector:pseudo-class {
+  property: value;
+}
+```
+
+Es gibt funktionale Pseudo-Klassen mit Klammern dahinter die Argumente enthalten (z.B., `:dir()`). Das Element auf das sich die Pseudo-Klasse bezieht nennt man _anchor element_ (z.B., `button` bei `button:hover`).
+
+Mit Pseudo-Klassen lassen sich nicht nur Elemente in Relation zum inhaltlichen HTML Dokumentaufbau stylen sondern auch in Relation zu externen Faktoren wie die Interaktion von Nutzer\*innen (z.B., `:visited`), den Status des Inhalts (z.B., `:checked`) oder die Position der Maus (z.B., `:hover`).
+
+## :face_with_spiral_eyes: Was sind Pseudo-Elemente?
+
+CSS Pseudo-Elemente sind Keywords die zu einem Selektor hinzugefügt werden um damit einen speziellen Teil des Elements zu stylen. `::first-line` z.B. wird benutzt um die erste Zeile eines Paragraphen zu stylen. Pseudo-Elemente bestehen aus zwei Doppelpunkten `::` gefolgt von dem Namen (z.B., `::marker`).
+
+### Syntax
+
+```
+selector::pseudo-element {
+  property: value;
+}
+```
