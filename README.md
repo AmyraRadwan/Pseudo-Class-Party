@@ -76,7 +76,7 @@ Mit `::before` wird ein Pseudo-Element erstellt, das als first-child des Selekto
 
 ### ::first-letter
 
-Das `::first-letter` Pseudo-Element wendet Stile auf den ersten Buchstaben der ersten Zeile eines Block-Elements an, jedoch nur, wenn kein anderer Inhalt (wie Bilder oder Inline-Tabellen) vorangestellt ist. Da es sich um ein Inline-Text Pseudo-Element handelt können nur begrenzte Properties darauf angewendet werden.
+Das `::first-letter` Pseudo-Element wendet Stile auf den ersten Buchstaben der ersten Zeile eines Block-Elements an, jedoch nur, wenn kein anderer Inhalt (wie Bilder oder Inline-Tabellen) vorangestellt ist. Da es sich um ein Inline-Text Pseudo-Element handelt können nur bestimmte Properties damit gestyled werden.
 
 **Beispiel:**
 
@@ -86,7 +86,7 @@ Das `::first-letter` Pseudo-Element wendet Stile auf den ersten Buchstaben der e
 
 ### ::first-line
 
-Das `::first-line` Pseudo-Element wendet Stile auf die erste Zeile eines Block-Elements an. Es ist standardmäßig ein Inline-Element. Da es sich um ein Inline-Text Pseudo-Element handelt können nur begrenzte Properties darauf angewendet werden.
+Das `::first-line` Pseudo-Element wendet Stile auf die erste Zeile eines Block-Elements an. Es ist standardmäßig ein Inline-Element. Da es sich um ein Inline-Text Pseudo-Element handelt können nur bestimmte Properties damit gestyled werden.
 
 **Beispiel:**
 
@@ -96,7 +96,7 @@ Das `::first-line` Pseudo-Element wendet Stile auf die erste Zeile eines Block-E
 
 ### ::marker
 
-Mit dem `::marker` Pseudo-Element lassen sich die standardmäßigen Symbole der Listenelemente `<li>` auswählen auswechseln. Es funktioniert bei allen Elementen oder Pseudo-Elementen die auf `display: list-item` eingestellt sind (standardmäßig z.B., `<li>` und `<summary>` Elemente).
+Mit dem `::marker` Pseudo-Element lassen sich die standardmäßigen Symbole der Listenelemente `<li>` auswählen auswechseln. Es funktioniert bei allen Elementen oder Pseudo-Elementen die auf `display: list-item` eingestellt sind (standardmäßig z.B., `<li>` und `<summary>` Elemente). Nur bestimmte Properties lassen sich mit `::marker` stylen.
 
 **Beispiel:**
 
