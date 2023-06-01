@@ -93,3 +93,29 @@ Das `::first-line` Pseudo-Element wendet Stile auf die erste Zeile eines Block-E
 ```
 
 ```
+
+### ::marker
+
+Mit dem `::marker` Pseudo-Element lassen sich die standardmäßigen Symbole der Listenelemente `<li>` auswählen auswechseln. Es funktioniert bei allen Elementen oder Pseudo-Elementen die auf `display: list-item` eingestellt sind (standardmäßig z.B., `<li>` und `<summary>` Elemente).
+
+**Beispiel:**
+
+```
+li::marker {
+    content: '✝';
+    font-size: 1.2em;
+}
+```
+
+### ::selection
+
+Mit dem `::selection` Pseudo-Element lassen sich die Farben der von Benutzer\*innen markierten Stellen eines Elements (z. B. durch klicken und ziehen der Maus über den Text) stylen. Nur bestimmte Properties lassen sich mit `::selection` stylen: `color`, `background-color`, `text-decoration`, `text-shadow`, `-webkit-text-stroke-color`, `-webkit-text-fill-color` and `-webkit-text-stroke-width`.
+
+**Beispiel:**
+
+```
+p::selection {
+    color: red;
+    background-color: yellow;
+}
+```
