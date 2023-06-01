@@ -5,10 +5,18 @@ Heute werden wir mit Pseudo-Klasses stylen und ein... yay!
 Das Tagesziel:
 
 1. Input
+
    - Was sind Pseudo-Klassen?
    - Was sind Pseudo-Elemente?
 
+2. Index
+
+   - Tolle Pseudo-Klassen
+   - Tolle Pseudo-Elemente
+
 Auf geht's!
+
+# 1.Input
 
 ## :face_with_spiral_eyes: Was sind Pseudo-Klassen?
 
@@ -17,8 +25,8 @@ CSS Pseudo-Klassen sind Keywords mit einem Doppelpunkt davor, die sich auf besti
 ### Syntax
 
 ```
-img:hover {
-  color: black;
+selector:pseudo-class {
+  property: value;
 }
 ```
 
