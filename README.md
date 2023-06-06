@@ -14,10 +14,10 @@ Das Tagesziel:
    - [Tolle Pseudo-Klassen](https://github.com/AmyraRadwan/Pseudo-Class-Party/tree/main#sparkles-tolle-pseudo-klassen)
    - [Tolle Pseudo-Elemente](https://github.com/AmyraRadwan/Pseudo-Class-Party/tree/main#sparkles-tolle-pseudo-elemente)
 
-3. [Aufgabe - "Hey, I'm a graphic designer ..."]()
+3. [Aufgabe - "Hey, I'm a graphic designer ..."](https://github.com/AmyraRadwan/Pseudo-Class-Party/tree/main#3-aufgabe---hey-im-a-graphic-designer-)
 
-   - [Aufgabenstellung]()
-   - [Beispiele & Ressourcen]()
+   - [Aufgabenstellung](https://github.com/AmyraRadwan/Pseudo-Class-Party/tree/main#page_facing_up-aufgabenstellung)
+   - [Beispiele & Ressourcen](https://github.com/AmyraRadwan/Pseudo-Class-Party/tree/main#bulb-beispiele--ressourcenx)
 
 Auf geht's!
 
