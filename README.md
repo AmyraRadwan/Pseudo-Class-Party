@@ -17,7 +17,7 @@ Das Tagesziel:
 3. [Aufgabe - "Hey, I'm a graphic designer ..."](https://github.com/AmyraRadwan/Pseudo-Class-Party/tree/main#3-aufgabe---hey-im-a-graphic-designer-)
 
    - [Aufgabenstellung](https://github.com/AmyraRadwan/Pseudo-Class-Party/tree/main#page_facing_up-aufgabenstellung)
-   - [Beispiele & Ressourcen](https://github.com/AmyraRadwan/Pseudo-Class-Party/tree/main#bulb-beispiele--ressourcenx)
+   - [Beispiele & Ressourcen](https://github.com/AmyraRadwan/Pseudo-Class-Party/tree/main#bulb-beispiele--ressourcen)
 
 Auf geht's!
 
