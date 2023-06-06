@@ -61,7 +61,7 @@ Die ersten Pseudo-Klassen wurden 1996 mit CSS1 herausgebracht. Pseudo soll hier 
 
 ### ::after
 
-Mit `::after` wird ein Pseudoelement erstellt, das als last-child des Selektor-Elements fungiert. Es wird häufig verwendet, um einem Element mit der Eigenschaft `content` kosmetische Inhalte hinzuzufügen. Es ist standardmäßig inline.
+Mit `::after` wird ein Pseudoelement erstellt, das als last-child des Selektor-Elements fungiert. Es wird häufig verwendet, um einem Element mit der Eigenschaft `content` kosmetische Inhalte hinzuzufügen. Es ist standardmäßig Inline-Element.
 
 **Beispiel:**
 
@@ -136,6 +136,6 @@ Wir beschäftigen uns heute mit dem für Portfolio Seiten klassischen Phänomen 
 1. Ladet euch [hier]() die Vorlage herunter
 2. Füllt die Vorlage nach Belieben mit euren eigenen Inhalten. Fügt gerne weiteres hinzu und löscht unnötiges heraus.
 3. Nutzt die gelernten Pseudo-Klassen und Elemente, um User-Interaktion und kleine Spielereien einzubauen. Wenn ihr unsicher mit der Syntax oder Funktionalität seit schaut hier im Repro nach oder fragt einfach
-4. Um 12.30Uhr machen wir eine schnelle Präsentation der Ergebnisse
+4. Um 12.30 Uhr machen wir eine schnelle Präsentation der Ergebnisse
 
 ## :bulb: Beispiele & Ressourcen
