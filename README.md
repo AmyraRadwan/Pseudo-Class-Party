@@ -1,6 +1,6 @@
 # :partying_face: Pseudo-Party
 
-Heute werden wir mit Pseudo-Klasses stylen und ein... yay!
+Heute werden wir mit Pseudo-Klasses stylen... yay!
 
 Das Tagesziel:
 
