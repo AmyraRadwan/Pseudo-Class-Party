@@ -14,6 +14,11 @@ Das Tagesziel:
    - [Tolle Pseudo-Klassen](https://github.com/AmyraRadwan/Pseudo-Class-Party/tree/main#sparkles-tolle-pseudo-klassen)
    - [Tolle Pseudo-Elemente](https://github.com/AmyraRadwan/Pseudo-Class-Party/tree/main#sparkles-tolle-pseudo-elemente)
 
+3. [Aufgabe - "Hey, I'm a graphic designer ..."]()
+
+   - [Aufgabenstellung]()
+   - [Beispiele & Ressourcen]()
+
 Auf geht's!
 
 # 1. Pseudo-Input
@@ -119,3 +124,16 @@ p::selection {
     background-color: yellow;
 }
 ```
+
+# 3. Aufgabe - "Hey, I'm a graphic designer ..."
+
+## :page_facing_up: Aufgabenstellung
+
+Wir beschäftigen uns heute mit dem für Portfolio Seiten klassischen Phänomen der "About Me" Webseiten. Seit es soziale Netzwerke wie Frienster, StudiVZ, MySpace und LinkedIn gibt, geht es im WWW verstärkt darum Profile mit persönlichen Daten auszuschmücken, um die Außenwirkung zu pflegen. Dieses Konzept findet sich auch auf vielen Portfolio-Webseiten, bei denen es primär darum geht, sich selbst zu vermarkten und darzustellen. Eine beliebte und simple Methode, die sich tausendfach anwenden lässt und meistens mit dem Satz: "Hey, I'm a graphic designer ..." beginnt. Heute coden wir so eine tolle Freundebuch-Style-Webseite selbst und setzen dabei alle Pseudo-Klassen und Elemente ein, die wir kennen.
+
+1. Ladet euch [hier]() die Vorlage herunter
+2. Füllt die Vorlage nach Belieben mit euren eigenen Inhalten. Fügt gerne weiteres hinzu und löscht unnötiges heraus.
+3. Nutzt die gelernten Pseudo-Klassen und Elemente, um User-Interaktion und kleine Spielereien einzubauen. Wenn ihr unsicher mit der Syntax oder Funktionalität seit schaut hier im Repro nach oder fragt einfach
+4. Um 12.30Uhr machen wir eine schnelle Präsentation der Ergebnisse
+
+## :bulb: Beispiele & Ressourcen
