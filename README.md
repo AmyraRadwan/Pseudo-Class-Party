@@ -139,3 +139,14 @@ Wir beschäftigen uns heute mit dem für Portfolio Seiten klassischen Phänomen 
 4. Um 12.30 Uhr machen wir eine schnelle Präsentation der Ergebnisse
 
 ## :bulb: Beispiele & Ressourcen
+
+1. Beispiele
+   - [mindyseu.com](https://mindyseu.com/)
+   - [www.zweifel.jetzt](https://www.zweifel.jetzt/simon-wahlers)
+   - [roopavasudevan.com](https://roopavasudevan.com/)
+   - [loonatiks.gr](https://loonatiks.gr/)
+   - [studiotriple.fr](http://studiotriple.fr/)
+   - [heyimphil.com](https://heyimphil.com/)
+   - [janniswichmann.com](https://janniswichmann.com/de)
+   - [fraukeschnoor.de](https://www.fraukeschnoor.de/)
+   - [oldsite.sallythurer.com](https://oldsite.sallythurer.com/)
