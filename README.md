@@ -151,6 +151,7 @@ Wir beschäftigen uns heute mit dem für Portfolio Seiten klassischen Phänomen 
 ## :bulb: Beispiele & Ressourcen
 
 1. Beispiele
+
    - [mindyseu.com](https://mindyseu.com/)
    - [zweifel.jetzt](https://www.zweifel.jetzt/simon-wahlers)
    - [roopavasudevan.com](https://roopavasudevan.com/)
@@ -160,3 +161,11 @@ Wir beschäftigen uns heute mit dem für Portfolio Seiten klassischen Phänomen 
    - [janniswichmann.com](https://janniswichmann.com/de)
    - [fraukeschnoor.de](https://www.fraukeschnoor.de/)
    - [oldsite.sallythurer.com](https://oldsite.sallythurer.com/)
+
+2. Ressourcen
+   - [MDN Web Docs: Pseudo-Klassen](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+   - [MDN Web Docs: Pseudo-Elemente](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+   - [Kewin Powell: Before and After pseudo-elements explained - Part 1](https://www.youtube.com/watch?v=zGiirUiWslI)
+   - [Kewin Powell: Before and After pseudo-elements explained - Part 2](https://www.youtube.com/watch?v=xoRbkm8XgfQ)
+   - [Kewin Powell: :is() :where() :has() pseudo-classes explained](https://www.youtube.com/watch?v=3ncFpP8GP4g)
+   - [Kewin Powell: :has() opens up new possibilities](https://www.youtube.com/watch?v=OGJvhpoE8b4)
