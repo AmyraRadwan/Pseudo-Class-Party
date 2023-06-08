@@ -57,6 +57,8 @@ Die ersten Pseudo-Klassen wurden 1996 mit CSS1 herausgebracht. Pseudo soll hier 
 
 ## :sparkles: Tolle Pseudo-Klassen
 
+Sorry, für zu faul. Hier der Link zum nachlesen: [MDN Web Docs: Pseudo-Klassen](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+
 ## :sparkles: Tolle Pseudo-Elemente
 
 ### ::before
@@ -165,7 +167,8 @@ Wir beschäftigen uns heute mit dem für Portfolio Seiten klassischen Phänomen 
 2. Ressourcen
    - [MDN Web Docs: Pseudo-Klassen](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
    - [MDN Web Docs: Pseudo-Elemente](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
-   - [Kewin Powell: Before and After pseudo-elements explained - Part 1](https://www.youtube.com/watch?v=zGiirUiWslI)
-   - [Kewin Powell: Before and After pseudo-elements explained - Part 2](https://www.youtube.com/watch?v=xoRbkm8XgfQ)
-   - [Kewin Powell: :is() :where() :has() pseudo-classes explained](https://www.youtube.com/watch?v=3ncFpP8GP4g)
-   - [Kewin Powell: :has() opens up new possibilities](https://www.youtube.com/watch?v=OGJvhpoE8b4)
+   - [Kevin Powell: Before and After pseudo-elements explained - Part 1](https://www.youtube.com/watch?v=zGiirUiWslI)
+   - [Kevin Powell: Before and After pseudo-elements explained - Part 2](https://www.youtube.com/watch?v=xoRbkm8XgfQ)
+   - [Kevin Powell: Before and After pseudo-elements explained - Part 3](https://www.youtube.com/watch?v=djbtPnNmc0I)
+   - [Kevin Powell: :is() :where() :has() pseudo-classes explained](https://www.youtube.com/watch?v=3ncFpP8GP4g)
+   - [Kevin Powell: :has() opens up new possibilities](https://www.youtube.com/watch?v=OGJvhpoE8b4)
