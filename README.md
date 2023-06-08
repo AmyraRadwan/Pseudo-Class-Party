@@ -142,7 +142,7 @@ Wir beschäftigen uns heute mit dem für Portfolio Seiten klassischen Phänomen 
 
 1. Beispiele
    - [mindyseu.com](https://mindyseu.com/)
-   - [www.zweifel.jetzt](https://www.zweifel.jetzt/simon-wahlers)
+   - [zweifel.jetzt](https://www.zweifel.jetzt/simon-wahlers)
    - [roopavasudevan.com](https://roopavasudevan.com/)
    - [loonatiks.gr](https://loonatiks.gr/)
    - [studiotriple.fr](http://studiotriple.fr/)
