@@ -59,16 +59,6 @@ Die ersten Pseudo-Klassen wurden 1996 mit CSS1 herausgebracht. Pseudo soll hier 
 
 ## :sparkles: Tolle Pseudo-Elemente
 
-### ::after
-
-Mit `::after` wird ein Pseudoelement erstellt, das als last-child des Selektor-Elements fungiert. Es wird häufig verwendet, um einem Element mit der Eigenschaft `content` kosmetische Inhalte hinzuzufügen. Es ist standardmäßig Inline-Element.
-
-**Beispiel:**
-
-```
-
-```
-
 ### ::before
 
 Mit `::before` wird ein Pseudo-Element erstellt, das als first-child des Selektor-Elements fungiert. Es wird häufig verwendet, um einem Element mit der Eigenschaft `content` kosmetische Inhalte hinzuzufügen. Es ist standardmäßig ein Inline-Element.
@@ -76,7 +66,21 @@ Mit `::before` wird ein Pseudo-Element erstellt, das als first-child des Selekto
 **Beispiel:**
 
 ```
+.class::before {
+    content: "💥";
+}
+```
 
+### ::after
+
+Mit `::after` wird ein Pseudoelement erstellt, das als last-child des Selektor-Elements fungiert. Es wird häufig verwendet, um einem Element mit der Eigenschaft `content` kosmetische Inhalte hinzuzufügen. Es ist standardmäßig Inline-Element.
+
+**Beispiel:**
+
+```
+.class::after {
+    content: "✋";
+}
 ```
 
 ### ::first-letter
@@ -86,7 +90,11 @@ Das `::first-letter` Pseudo-Element wendet Stile auf den ersten Buchstaben der e
 **Beispiel:**
 
 ```
-
+p::first-letter {
+    font-size: 2em;
+    line-height: 2.5em;
+    float: left;
+}
 ```
 
 ### ::first-line
@@ -96,12 +104,14 @@ Das `::first-line` Pseudo-Element wendet Stile auf die erste Zeile eines Block-E
 **Beispiel:**
 
 ```
-
+p::first-line {
+    font-weight: 900;
+}
 ```
 
 ### ::marker
 
-Mit dem `::marker` Pseudo-Element lassen sich die standardmäßigen Symbole der Listenelemente `<li>` auswählen auswechseln. Es funktioniert bei allen Elementen oder Pseudo-Elementen die auf `display: list-item` eingestellt sind (standardmäßig z.B., `<li>` und `<summary>` Elemente). Nur bestimmte Properties lassen sich mit `::marker` stylen.
+Mit dem `::marker` Pseudo-Element lassen sich die standardmäßigen Symbole der Listenelemente `<li>` auswechseln. Es funktioniert bei allen Elementen die auf `display: list-item` eingestellt sind (standardmäßig z.B., `<li>` und `<summary>` Elemente). Nur bestimmte Properties lassen sich mit `::marker` stylen.
 
 **Beispiel:**
 
