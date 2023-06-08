@@ -145,7 +145,7 @@ Wir beschäftigen uns heute mit dem für Portfolio Seiten klassischen Phänomen 
 
 ![Pic](assets/img/1.png)
 
-1. Ladet euch [hier]() die Vorlage herunter
+1. Ladet euch [hier](https://filedn.eu/l22VWjpcjpkLIdEj2qq1KKV/pseudo-party-vorlage.zip) die Vorlage herunter
 2. Füllt die Vorlage nach Belieben mit euren eigenen Inhalten. Fügt gerne weiteres hinzu und löscht unnötiges heraus
 3. Nutzt die gelernten Pseudo-Klassen und Elemente, um User-Interaktion und kleine Spielereien einzubauen. Wenn ihr unsicher mit der Syntax oder Funktionalität seit schaut hier im Repro nach oder fragt einfach
 4. Um 12.30 Uhr machen wir eine schnelle Präsentation der Ergebnisse
@@ -172,3 +172,4 @@ Wir beschäftigen uns heute mit dem für Portfolio Seiten klassischen Phänomen 
    - [Kevin Powell: Before and After pseudo-elements explained - Part 3](https://www.youtube.com/watch?v=djbtPnNmc0I)
    - [Kevin Powell: :is() :where() :has() pseudo-classes explained](https://www.youtube.com/watch?v=3ncFpP8GP4g)
    - [Kevin Powell: :has() opens up new possibilities](https://www.youtube.com/watch?v=OGJvhpoE8b4)
+   - [Simple Emoji Animations](https://codepen.io/GeorgePark/pen/aazBGj)
