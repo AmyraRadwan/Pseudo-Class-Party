@@ -149,7 +149,7 @@ Wir beschäftigen uns heute mit dem für Portfolio Seiten klassischen Phänomen 
 2. Füllt die Vorlage nach Belieben mit euren eigenen Inhalten. Fügt gerne weiteres hinzu und löscht unnötiges heraus
 3. Nutzt die gelernten Pseudo-Klassen und Elemente, um User-Interaktion und kleine Spielereien einzubauen. Wenn ihr unsicher mit der Syntax oder Funktionalität seit schaut hier im Repro nach oder fragt einfach
 4. Um 12.30 Uhr machen wir eine schnelle Präsentation der Ergebnisse
-5. Ladet euch [hier](https://github.com/AmyraRadwan/Pseudo-Class-Party/raw/main/2_Pseudo-Party-Cheat-Sheet/pseudo-party-cheat-sheet.zip) meine fertige Datei herunter zur Auflösung von Problemen oder zum nachschlagen/schauen für später
+5. Ladet euch [hier](https://github.com/AmyraRadwan/Pseudo-Class-Party/raw/main/2_Pseudo-Party-Aufloesung/pseudo-party-aufloesung.zip) meine fertige Datei herunter zur Auflösung von Problemen oder zum nachschlagen/schauen für später
 
 ## :bulb: Beispiele & Ressourcen
 
